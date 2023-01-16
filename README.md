@@ -1,8 +1,5 @@
 # Modeling rider churn for ride-hailing service
 
-The original case study problem is given here: 
-https://docs.google.com/document/d/1bknj8Q6Afkaqc_USdTTFTfslcVbPyTdfjxlMAUUd-EM/edit?usp=share_link
-
 The main code is the Jupyter notebook **Master_notebook.ipynb**
 
 A written report is in this goole doc: 
